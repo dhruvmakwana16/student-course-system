@@ -16,11 +16,7 @@ A full-stack MERN application for managing courses and student learning.
 * Backend: Node.js, Express.js
 * Database: MongoDB
 
-## Setup
 
-```bash
-git clone https://github.com/YOUR_USERNAME/student-course-system.git
-cd student-course-system
 ```
 
 ### Backend
